@@ -9,7 +9,7 @@ class HoneyMakerBee extends Bee {
   makeHoney() {
     this.honeyPot++;
   }
-
+  
   giveHoney() {
     this.honeyPot--;
   }
